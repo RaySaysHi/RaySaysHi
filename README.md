@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Raymond Ding
 
-## 📊 Data Science Student | 📈 Analytics Enthusiast
+## 📊 Data Science Major
 
 I'm a Data Science major from George Washington University passionate about transforming raw data into clear, actionable insights—whether through interactive dashboards, predictive modeling, or well-crafted data pipelines.
 
@@ -44,11 +44,12 @@ ETL solution for extracting data from Google Analytics and APIs to PostgreSQL:
 - Robust error handling and logging
 - Configurable environment variables
 
-## 🌱 Professional Experience
-Currently working in data analytics roles where I've learned how analytics can drive smarter decisions and measurable improvements in day-to-day operations.
+Reach Out to Me
+📫 I am actively looking for Data Analyst, Business Analyst, Data Scientist, and Data Engineering roles and welcome connections via email or LinkedIn:
 
-## 💬 Let's Connect!
-I'm passionate about bridging the gap between technology and real-world challenges, and I'm eager to keep refining my skills to deliver impactful, data-driven strategies.
+Email: rding0305@gmail.com
+LinkedIn: https://www.linkedin.com/in/raymond-ding/
+https://raysayshi.github.io/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raymond-ding)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://raysayshi.github.io/)
