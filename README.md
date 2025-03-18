@@ -44,9 +44,9 @@ ETL solution for extracting data from Google Analytics and APIs to PostgreSQL:
 - Robust error handling and logging
 - Configurable environment variables
 
-Reach Out to Me
+📫Reach Out to Me
 
-📫 I am actively looking for Data Analyst, Business Analyst, Data Scientist, and Data Engineering roles and welcome connections via email or LinkedIn:
+I am actively looking for Data Analyst, Business Analyst, Data Scientist, and Data Engineering roles and welcome connections via email or LinkedIn:
 
 Email: rding0305@gmail.com
 LinkedIn: https://www.linkedin.com/in/raymond-ding/
