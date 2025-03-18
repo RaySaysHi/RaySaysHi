@@ -49,7 +49,7 @@ Reach Out to Me
 
 Email: rding0305@gmail.com
 LinkedIn: https://www.linkedin.com/in/raymond-ding/
-https://raysayshi.github.io/
+Portfolio: https://raysayshi.github.io/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raymond-ding)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://raysayshi.github.io/)
